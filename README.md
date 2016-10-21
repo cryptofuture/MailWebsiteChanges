@@ -55,6 +55,8 @@ sites = [
      Character encoding of the website, e.g., 'utf-8' or 'iso-8859-1'.
    * <b>receiver</b> (optional)
      Overwrites global receiver specification.
+   * <b>broken</b> (optional)
+     Use browser-like user agent with website. Fox ex. `'broken': 'true',`.
 
 
  * We collect some XPath/CSS snippets at this place: <a href="https://github.com/Debianguru/MailWebsiteChanges/wiki/snippets">Snippet collection</a> - please feel free to add your own definitions!
